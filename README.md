@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi👋, I am William
 
-<!--
-**williamcamasil/williamcamasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been a developer for over 10 years, I started as a delphi developer and since 2020 I started my cycle as a front-end developer where I truly found myself.
 
-Here are some ideas to get you started:
+I currently work at [DB1 Global Software](https://www.db1.com.br/) as a Front-End Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***To know more about me, find me on***
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamcamasil/)
+
+![William GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcamasil&show_icons=true&theme=transparent)
+
+## Technologies
+
+### Front end / Mobile work experience 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,flutter,html,css,sass,jest,wordpress,figma,git)](https://skillicons.dev)
+
+### Back end work experience 
+
+[![My Skills](https://skillicons.dev/icons?i=cs,docker)](https://skillicons.dev)
+
+### Studies experience 
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,eclipse,spring,postgres,py,sketchup)](https://skillicons.dev)
